@@ -12,7 +12,3 @@ def hello(name):
 
 
 print(hello('Jack'))
-
-r = requests.get('https://jacksnowdon.co.uk')
-
-print(r.status_code)
